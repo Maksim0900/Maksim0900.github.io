@@ -1,0 +1,34 @@
+
+	
+		p{
+			color:green;
+			font-size:25px;
+			font-family:serif;
+		}
+		h1{
+			color:rgb(20,230,124);
+			font-size:25px;
+			font-family:cursive;
+			text-align:center;
+		}
+		h2{
+			text-align:center;
+		}
+		img{
+			width:50%;
+		}
+		a{				
+		 color:rgb(100,42,205);
+		 font-size: 20px
+		}
+		div{
+			margin:auto;
+			width:70%;
+			background-color: rgb(127, 255, 212);
+			border-radius:50px;
+			padding: 20px;
+			border: 8px,dotted,rgb(230, 230, 250);
+		}
+		body{
+			background-color:rgb(65, 105, 225);
+		}
